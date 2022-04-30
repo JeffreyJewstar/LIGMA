@@ -1,0 +1,2 @@
+[04/30/22-20:21:41] - SHITMAN|ANUS#7817 - [WARNING] | Failed to send command `pls settings confirmations nah`. Status code: 403 (expected 200 or 204).
+[04/30/22-20:21:41] - SHITMAN|ANUS#7817 - [WARNING] | An unexpected error occured during the running of the `pls settings confirmations nah` command: `(<class 'discord.instance.MessageSendError'>, MessageSendError('Failed to send command `pls settings confirmations nah`. Status code: 403 (expected 200 or 204).'), <traceback object at 0x0000015D78F46D00>)`.
